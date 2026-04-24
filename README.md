@@ -1,76 +1,112 @@
-<h1 align="center">Hey, I'm MellowMethodologies 👋</h1>
+# Hi, I'm Badr Saad
 
-<p align="center">
-  <em>Full Stack Software Engineer &nbsp;·&nbsp; EdPulse</em>
-</p>
+Full-Stack Developer focused on building clean, useful, and scalable web applications.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Company-EdPulse-4A90D9?style=for-the-badge" alt="EdPulse" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-success?style=for-the-badge" alt="Full Stack Engineer" />
-  <img src="https://komarev.com/ghpvc/?username=MellowMethodologies&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
+I work mainly with **React**, **Next.js**, **Node.js**, **PostgreSQL**, and modern backend/frontend tools.  
+I enjoy turning ideas into real products, learning fast, and building projects that are actually usable.
 
 ---
 
-## 🚀 About Me
+## Portfolio
 
-I'm a **Full Stack Software Engineer at [EdPulse](https://edpulse.com)**, where I build scalable, data-driven web platforms that empower educators and learners alike. I love bridging the gap between thoughtful product design and robust back-end architecture — turning complex requirements into clean, maintainable code.
-
-- 🔭 **Currently building** — features across EdPulse's learning-analytics platform (front end to API to data pipeline)
-- 🌱 **Currently levelling up** — real-time data streaming, AI-assisted tutoring flows, and edge-deployment strategies
-- 💡 **Passionate about** — EdTech, developer experience, performance optimisation, and accessible UIs
-- 🤝 **Open to collaborate on** — open-source EdTech tools, developer productivity libraries, and full-stack starter kits
-- 💬 **Ask me about** — React/Next.js, Node.js/Express, REST & GraphQL APIs, PostgreSQL, Docker, CI/CD pipelines
-- ⚡ **Fun fact** — I debug best with lo-fi music and a large cup of coffee ☕
+[Visit my portfolio](https://badrsaad.tech)
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- Full-stack developer with experience in frontend and backend development
+- Comfortable building complete web apps from UI to database
+- Interested in product-focused development, clean code, and performance
+- Always improving through real projects, problem solving, and collaboration
+- Open to junior full-stack, frontend, backend, or software developer roles
+
+---
+
+## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+`React` · `Next.js` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Tailwind CSS`
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+`Node.js` · `Express.js` · `Django` · `REST APIs`
 
-### Data & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### Database
+`PostgreSQL` · `MySQL` · `Drizzle ORM` · `Prisma`
 
-### DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Tools
+`Git` · `GitHub` · `Docker` · `Postman` · `Linux` · `Vercel`
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### Transcendence
+A full-stack real-time web application built around multiplayer interaction, authentication, and modern web architecture.
+
+**Tech:** Next.js, Node.js, PostgreSQL, WebSockets, Docker
+
+---
+
+### Minishell
+A Unix shell built in C, focused on process management, parsing, pipes, redirections, and system calls.
+
+**Tech:** C, Unix, Linux, Makefile
+
+---
+
+### Inception
+A Docker-based infrastructure project using multiple services, containers, volumes, and networking.
+
+**Tech:** Docker, Docker Compose, Nginx, MariaDB, WordPress
+
+---
+
+### WaveSense
+A real-time sound analysis platform exploring audio signals, visualization, and browser-based sound processing.
+
+**Tech:** Next.js, Web Audio API, JavaScript
+
+---
+
+## What I Care About
+
+I like building software that feels clear, fast, and practical.  
+For me, a good project is not just about using technologies. It should be easy to understand, easy to use, and easy to improve.
+
+---
+
+## Currently Improving
+
+- Advanced Next.js patterns
+- Backend architecture
+- PostgreSQL and database design
+- Docker and deployment workflows
+- Clean UI/UX for developer portfolios
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MellowMethodologies&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MellowMethodologies&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MellowMethodologies&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MellowMethodologies&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Get in Touch
+## Connect
+
+- Portfolio: [badrsaad.tech](https://badrsaad.tech)
+- GitHub: [MellowMethodologies](https://github.com/MellowMethodologies)
+- LinkedIn: Add your LinkedIn link here
+- Email: Add your email here
+
+---
 
 <p align="center">
-  <a href="https://linkedin.com/in/mellowmethodologies" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hello@mellowmethodologies.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  Building, learning, and improving one project at a time.
 </p>
-
-<p align="center"><em>"Write code that humans can read first, machines second."</em></p>
